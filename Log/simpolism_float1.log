@@ -1,0 +1,67 @@
+==============================================
+Start Time 1681680350.8565805 2023-04-16 17:25:50.856580
+sys.float_info(max=1.7976931348623157e+308, max_exp=1024, max_10_exp=308, min=2.2250738585072014e-308,
+ min_exp=-1021, min_10_exp=-307, dig=15, mant_dig=53, epsilon=2.220446049250313e-16, radix=2, rounds=1)
+
+sys.float_info(max=1.7549435e+38, max_exp=128, max_10_exp=38, min=3.40282347e-38,
+ min_exp=-125, min_10_exp=-37, dig=6, mant_dig=24, epsilon=1.91209290e-07, radix=2, rounds=1)
+
+==============================================
+==============================================
+Check if A = 7777777777779777777777777 is a Prime or Composite Prime
+==============================================
+A = 7777777777779777777777777
+b7 = 1296296296296629581905920
+b11 = 1296296296296629581905920
+ multiplier of 3 : 3 * A = 3 * 2592592592593259163811840 
+==============================================
+A is number with 25 Digits
+Search for Factors up untill 1981307
+Get Factor Chain for A = 7777777777779777777777777
+==============================================
+Factor 7777777777779777777777777 = 3 * 2592592592593259163811840 = 7777777777779777777777777, Scientific notation =2.592592592593259e+24
+Factor 7777777777779777777777777 = 1604731 * 4846779789123396608 = 7777777777779777777777777 , Scientific notation =4.846779789123397e+18
+factor of 6 216049382716104941502464 after 1 division
+factor of 6 36008230452684155518976 after 2 division
+factor of 6 6001371742114025570304 after 3 division
+factor of 6 1000228623685670928384 after 4 division
+factor of 6 166704770614278488064 after 5 division
+factor of 6 27784128435713081344 after 6 division
+factor of 6 4630688072618847232 after 7 division
+factor of 6 771781345436474496 after 8 division
+factor of 6 128630224239412416 after 9 division
+factor of 6 21438370706568736 after 10 division
+factor of 6 3573061784428122.5 after 11 division
+factor of 6 595510297404687.125 after 12 division
+factor of 6 99251716234114.515625 after 13 division
+factor of 6 16541952705685.751953125 after 14 division
+factor of 6 2756992117614.2919921875 after 15 division
+factor of 6 459498686269.0486450195312 after 16 division
+factor of 6 76583114378.17477416992188 after 17 division
+factor of 6 12763852396.36246299743652 after 18 division
+factor of 6 2127308732.72707724571228 after 19 division
+factor of 6 354551455.454512894153595 after 20 division
+factor of 6 59091909.24241881817579269 after 21 division
+factor of 6 9848651.540403136983513832 after 22 division
+factor of 6 1641441.923400522908195853 after 23 division
+factor of 6 273573.6539000871707685292 after 24 division
+factor of 6 45595.60898334786179475486 after 25 division
+factor of 6 7599.26816389130999596091 after 26 division
+factor of 6 1266.544693981885075118043 after 27 division
+factor of 6 211.0907823303141697124374 after 28 division
+factor of 6 35.18179705505236398721536 after 29 division
+factor of 6 5.863632842508727627262033 after 30 division
+factor of 6 : break after 30 divide
+==============================================
+3621992091615232
+2305727093415084032
+7777777777772778305355776
+7777777777772778305355776
+3621992091618491.5
+1073741824.0009663
+1.0000000000009
+2.305727093417159e+18
+1073741824.0009663
+1.0000000000009
+29
+End Time 1681680350.987383 2023-04-16 17:25:50.987382 ; Duration in sec 0.13080239295959473 ; Duration in minutes 0.002180039882659912
